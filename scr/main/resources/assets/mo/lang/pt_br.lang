@@ -1,0 +1,103 @@
+﻿//ITEMS
+item.chalcanthite.name=Calcantite
+item.amethyst.name=Ametista
+item.ruby.name=Rubi
+item.titanium_ingot.name=Barra de titânio
+item.titanium_nugget.name=Pepita de titânio
+item.copper_ingot.name=Barra de cobre
+item.copper_nugget.name=Pepita de cobre
+
+//GUIAS
+itemGroup.buildingblocks=Blocos de construção
+itemGroup.decorationblocks=Blocos de decoração
+itemGroup.miscellaneous=Diversos
+itemGroup.tools=Ferramentas
+itemGroup.combat=Combate
+
+//MÁQUINAS
+container.ores_furnace=Fornalha de minérios
+tile.ores_furnace.name=Fornalha de minérios
+
+//BLOCOS
+tile.ores_furnace.name=Fornalha de minérios
+tile.obsidian_block_solid.name=Bloco sólido de obsidiana
+
+tile.chalcanthite_ore.name=Minério de calcantite
+tile.chalcanthite_block.name=Bloco de calcantite
+tile.chalcanthite_block_solid.name=Bloco sólido de calcantite
+tile.chalcanthite_block_polid.name=Bloco polido de calcantite
+
+tile.amethyst_ore.name=Minério de ametista
+tile.amethyst_block.name=Bloco de ametista
+tile.amethyst_block_solid.name=Bloco sólido de ametista
+tile.amethyst_block_polid.name=Bloco polido de ametista
+
+tile.ruby_ore.name=Minério de rubi
+tile.ruby_block.name=Bloco de rubi
+tile.ruby_block_solid.name=Bloco sólido de rubi
+tile.ruby_block_polid.name=Bloco polido de rubi
+
+tile.titanium_ore.name=Minério de titânio
+tile.titanium_block.name=Bloco de titânio
+tile.titanium_block_polid.name=Bloco polido de titânio
+
+tile.copper_ore.name=Minério de cobre
+tile.copper_block.name=Bloco de cobre
+tile.copper_block_polid.name=Bloco polido de cobre
+
+//FERRAMENTAS
+item.chalcanthite_sword.name=Espada de calcantite
+item.chalcanthite_shovel.name=Pá de calcantite
+item.chalcanthite_pickaxe.name=Picareta de calcantite
+item.chalcanthite_axe.name=Machado de calcantite
+item.chalcanthite_hoe.name=Enxada de calcantite
+
+item.amethyst_sword.name=Espada de ametista
+item.amethyst_shovel.name=Pá de ametista
+item.amethyst_pickaxe.name=Picareta de ametista
+item.amethyst_axe.name=Machado de ametista
+item.amethyst_hoe.name=Enxada de ametista
+
+item.ruby_sword.name=Espada de rubi
+item.ruby_shovel.name=Pá de rubi
+item.ruby_pickaxe.name=Picareta de rubi
+item.ruby_axe.name=Machado de rubi
+item.ruby_hoe.name=Enxada de rubi
+
+item.titanium_sword.name=Espada de titânio
+item.titanium_shovel.name=Pá de titânio
+item.titanium_pickaxe.name=Picareta de titânio
+item.titanium_axe.name=Machado de titânio
+item.titanium_hoe.name=Enxada de titânio
+
+item.copper_sword.name=Espada de cobre
+item.copper_shovel.name=Pá de cobre
+item.copper_pickaxe.name=Picareta de cobre
+item.copper_axe.name=Machado de cobre
+item.copper_hoe.name=Enxada de cobre
+
+//ARMADURAS
+item.chalcanthite_helmet.name=Capacete de calcantite
+item.chalcanthite_chestplate.name=Peitoral de calcantite
+item.chalcanthite_leggings.name=Calças de calcantite
+item.chalcanthite_boots.name=Botas de calcantite
+
+item.amethyst_helmet.name=Capacete de ametista
+item.amethyst_chestplate.name=Armadura de ametista
+item.amethyst_leggings.name=Calças de ametista
+item.amethyst_boots.name=Botas de ametista
+
+item.ruby_helmet.name=Capacete de rubi
+item.ruby_chestplate.name=Armadura de rubi
+item.ruby_leggings.name=Calças de rubi
+item.ruby_boots.name=Botas de rubi
+
+item.titanium_helmet.name=Capacete de titânio
+item.titanium_chestplate.name=Armadura de titânio
+item.titanium_leggings.name=Calças de titânio
+item.titanium_boots.name=Botas de titânio
+
+item.copper_helmet.name=Capacete de cobre
+item.copper_chestplate.name=Armadura de cobre
+item.copper_leggings.name=Calças de cobre
+item.copper_boots.name=Botas de cobre
